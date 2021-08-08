@@ -2,7 +2,7 @@
 A python based parser from the output of `mvn dependency:tree`.
 
 # Requirements
-Python > 3.x
+Python 3.x
 
 # Usage
 1. Build a depedency tree of a maven project with `mvn dependency:tree -DoutputFile=<path-to-file>`. See details on maven dependency plugin page 
